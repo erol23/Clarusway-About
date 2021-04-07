@@ -78,16 +78,14 @@ nav div{
 #button{
     background-color: rgb(245, 63, 18);
     color: white;
-    padding: 15px;
-    width: 30%
+    padding: 5px;
 }
 #button:hover{
     cursor: pointer;
     box-shadow: 2px 2px 2px;
 }
 input{
-    padding: 15px;
-    width: 55%;
+    padding: 5px;
 
 }
 #content{
